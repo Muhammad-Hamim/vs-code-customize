@@ -1,5 +1,36 @@
 /*================================
- VS Code Settings
+My VS code Settings
+================================*/
+{
+    "editor.accessibilitySupport": "off",
+    "editor.wordWrap": "on",
+    "editor.cursorBlinking": "expand",
+    "editor.fontSize": 20,
+    "diffEditor.wordWrap": "on",
+    "editor.wrappingStrategy": "advanced",
+    "files.autoSave": "afterDelay",
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorWidth": 3,
+    "terminal.integrated.fontSize": 20,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.colorTheme": "Tailwind - Darkest",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.editor.enablePreview": false,
+    "workbench.colorCustomizations": {
+        "editorCursor.background": "#00ff00"
+        "editorCursor.foreground": "#04eb04",
+    }
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.colorDecorators": false
+    
+}
+
+
+
+
+/*================================
+ ProCoder VS Code Settings
 ================================*/
 
 {
