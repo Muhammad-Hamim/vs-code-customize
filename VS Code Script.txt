@@ -14,7 +14,7 @@ My VS code Settings
     "terminal.integrated.cursorWidth": 3,
     "terminal.integrated.fontSize": 20,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "workbench.colorTheme": "Tailwind - Darkest",
+    "workbench.colorTheme": "Dracula",
     "workbench.iconTheme": "vscode-icons",
     "workbench.editor.enablePreview": false,
     "workbench.colorCustomizations": {
@@ -22,9 +22,11 @@ My VS code Settings
         "editorCursor.foreground": "#04eb04",
     }
     "tailwindCSS.emmetCompletions": true,
-    "tailwindCSS.colorDecorators": false
+    "tailwindCSS.colorDecorators": false,
+    "emmet.triggerExpansionOnTab": true
     
 }
+
 
 
 
