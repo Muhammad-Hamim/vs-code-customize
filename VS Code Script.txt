@@ -24,7 +24,7 @@ My VS code Settings
     "tailwindCSS.emmetCompletions": true,
     "tailwindCSS.colorDecorators": false,
     "emmet.triggerExpansionOnTab": true
-    
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
 }
 
 
